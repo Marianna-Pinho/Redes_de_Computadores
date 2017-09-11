@@ -1,3 +1,6 @@
+//http://www.linuxhowtos.org/C_C++/socket.htm
+//https://stackoverflow.com/questions/23187496/what-is-the-meaning-of-sin-addr-s-addr-and-inet-addr
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
